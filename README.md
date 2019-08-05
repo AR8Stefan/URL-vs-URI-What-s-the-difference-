@@ -13,4 +13,4 @@ Example: https://teamtreehouse.com/stefanpiatkov
 The part that makes something a URL is the combination of the name and an access method, such as https://, or mailto:.
 URLs are URIs, but the opposite is not true. So saying URI is always technically accurate, but if you are discussing something that’s both a full URL and a URI (which all URLs are), it’s best to call it a “URL” because it’s more specific.
 
-Source: https://treehouse.com
+Source: https://teamtreehouse.com
