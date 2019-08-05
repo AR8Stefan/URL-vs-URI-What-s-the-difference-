@@ -2,7 +2,7 @@
 ### Understanding the differences between URLs &amp; URIs
 
 # URL vs URI, what's the difference?
-- The acronyms URL and URI are often used interchangeably. Although they can be referencing the same thing, there are some distinctions. Here is a brief summary:
+The acronyms URL and URI are often used interchangeably. Although they can be referencing the same thing, there are some distinctions. Here is a brief summary:
 
 * URI stands for "Uniform Resource Identifier", the keyword being "Identifier". This can mean name, location, or both.
 Example: /api/v1/games/1234
